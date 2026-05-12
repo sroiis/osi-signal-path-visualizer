@@ -8,12 +8,8 @@ An interactive simulation project demonstrating data flow across OSI layers incl
 - KPI Monitoring
 - Routing Demonstration
 - Interactive Controls
-  
-## Demo Video
-A short demonstration video is available in `assets/demo/demo.mp4`. Download it to view.
 
-<img width="1080" height="592" alt="image" src="https://github.com/user-attachments/assets/52a48099-4acf-4567-8847-2fea6e647382" />
-
+  <img width="1280" height="670" alt="WhatsApp Image 2026-05-12 at 4 21 39 PM" src="https://github.com/user-attachments/assets/4c7fb1be-6f05-44cb-9337-02bdcc9a70cf" />
 
 ## Run Project
 ```bash
